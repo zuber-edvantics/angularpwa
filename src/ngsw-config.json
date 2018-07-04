@@ -21,7 +21,10 @@
     "resources": {
       "files": [
         "/assets/**"
-      ]
+      ],
+      "urls": [
+      "https://cataas.com/**"
+    ]
     }
   }]
 }
